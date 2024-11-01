@@ -1,0 +1,126 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Token Login\n"
+"POT-Creation-Date: 2017-07-22 12:55+0530\n"
+"PO-Revision-Date: 2017-07-22 12:55+0530\n"
+"Last-Translator: Priyabrata Sarkar <priyabrata@magicmembers.com>\n"
+"Language-Team: Priyabrata Sarkar <yespbs@gmail.com>\n"
+"Language: bn_IN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.6\n"
+"X-Poedit-Basepath: /Users/priyabrata/Documents/Workspace/Web/"
+"wordpress_plugins/src/wp/\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;esc_attr__;esc_html__;esc_attr_e;esc_html_e;_x;"
+"_ex;esc_attr_x;esc_html_x;_n;_nx;_n_noop;_nx_noop\n"
+"X-Poedit-SearchPath-0: wp-content/plugins/token-login\n"
+
+#: wp-content/plugins/token-login/token-login.php:99
+msgid ""
+"Your Token has been updated for new IP. Please re-authenticate \n"
+"\t\t\t\t\tusing new secure url sent to your registered E-mail"
+msgstr ""
+
+#: wp-content/plugins/token-login/token-login.php:105
+msgid "Your Token could not be authenticated."
+msgstr ""
+
+#: wp-content/plugins/token-login/token-login.php:191
+#: wp-content/plugins/token-login/token-login.php:216
+msgid "Token Login Settings"
+msgstr "টোকেন লগইন সেটিংস"
+
+#: wp-content/plugins/token-login/token-login.php:191
+msgid "Token Login"
+msgstr "টোকেন লগইন"
+
+#: wp-content/plugins/token-login/token-login.php:219
+msgid "Select Roles to create and allow Token Login"
+msgstr ""
+
+#: wp-content/plugins/token-login/token-login.php:231
+msgid "E-mail Templates"
+msgstr ""
+
+#: wp-content/plugins/token-login/token-login.php:234
+msgid "New Token E-mail"
+msgstr ""
+
+#: wp-content/plugins/token-login/token-login.php:235
+#: wp-content/plugins/token-login/token-login.php:244
+msgid "Subject"
+msgstr ""
+
+#: wp-content/plugins/token-login/token-login.php:238
+#: wp-content/plugins/token-login/token-login.php:247
+#: wp-content/plugins/token-login/token-login.php:253
+msgid "Body"
+msgstr ""
+
+#: wp-content/plugins/token-login/token-login.php:243
+msgid "Reset Token E-mail"
+msgstr ""
+
+#: wp-content/plugins/token-login/token-login.php:252
+msgid "New Token E-mail (Register)"
+msgstr ""
+
+#: wp-content/plugins/token-login/token-login.php:257
+msgid "Login Redirect"
+msgstr ""
+
+#: wp-content/plugins/token-login/token-login.php:259
+msgid "Redirect Url"
+msgstr ""
+
+#: wp-content/plugins/token-login/token-login.php:262
+msgid "Default to profile if empty"
+msgstr ""
+
+#: wp-content/plugins/token-login/token-login.php:265
+msgid "Additional Options"
+msgstr ""
+
+#: wp-content/plugins/token-login/token-login.php:270
+msgid "Add Token Login Url to New User E-mail"
+msgstr "টোকেন লগইন ইউআরএল নতুন ব্যবহারকারী ই-মেইল যোগ করুন"
+
+#: wp-content/plugins/token-login/token-login.php:333
+msgid "Token URL"
+msgstr "টোকেন ইউআরএল"
+
+#: wp-content/plugins/token-login/token-login.php:338
+msgid "Re-Generate"
+msgstr "পুনরায় জেনারেট করুন"
+
+#: wp-content/plugins/token-login/token-login.php:339
+msgid "E-mail"
+msgstr "ই-মেইল"
+
+#: wp-content/plugins/token-login/token-login.php:717
+msgid "Successfully regenerated token!"
+msgstr "টোকেন সফলভাবে পুনর্জন্ম!"
+
+#: wp-content/plugins/token-login/token-login.php:733
+msgid "Successfully emailed token!"
+msgstr "সফলভাবে টোকেন ইমেল করেছে!"
+
+#: wp-content/plugins/token-login/token-login.php:763
+msgid "Successfully updated settings!"
+msgstr "সেটিংস সফলভাবে আপডেট করা হয়েছে!"
+
+#: wp-content/plugins/token-login/token-login.php:770
+msgid "No such method!"
+msgstr "এমন কোন পদ্ধতি নেই!"
+
+#~ msgid "Select Roles to create Token Login Url"
+#~ msgstr "টোকেন লগইন ইউআরএল তৈরির ভূমিকা নির্বাচন করুন"
+
+#~ msgid "Other Options"
+#~ msgstr "অন্যান্য অপশন"
+
+#~ msgid "To login without password, visit the following address:"
+#~ msgstr "পাসওয়ার্ড ছাড়াই লগইন করতে, নিম্নোক্ত ঠিকানায় যান:"
